@@ -1,0 +1,3 @@
+[submodule "data-jpa-service"]
+	path = data-jpa-service
+	url = https://github.com/vyk0522/data-jpa-service.git
