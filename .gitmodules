@@ -1,3 +1,6 @@
 [submodule "data-jpa-service"]
 	path = data-jpa-service
 	url = https://github.com/vyk0522/data-jpa-service.git
+[submodule "spring-data-service"]
+	path = spring-data-service
+	url = https://github.com/vyk0522/spring-data-service.git
